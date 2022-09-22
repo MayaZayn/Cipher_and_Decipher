@@ -12,5 +12,5 @@
 9) XOR Cipher
 10) Rail-Fence Cipher
 
-## Prepared by: 
+### Prepared by: 
 [Mohamed Rady](https://github.com/MohamedRadyA), [Maya Ayman](https://github.com/MayaZayn), [Ali Tarek]()

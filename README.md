@@ -13,4 +13,4 @@
 10) Rail-Fence Cipher
 
 ### Prepared by: 
-[Mohamed Rady](https://github.com/MohamedRadyA), [Maya Ayman](https://github.com/MayaZayn), [Ali Tarek]()
+[Mohamed Rady](https://github.com/MohamedRadyA), [Maya Ayman](https://github.com/MayaZayn), [Ali Tarek](https://github.com/Alitarek517)
